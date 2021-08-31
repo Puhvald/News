@@ -1,0 +1,4 @@
+[0226/001307.787:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0226/001307.789:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Р”РёРјРєР° Рё Р®РЅРєР°\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Отказано в доступе. (0x5)
+[0227/184909.974:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0227/184909.976:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Р”РёРјРєР° Рё Р®РЅРєР°\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Отказано в доступе. (0x5)
